@@ -18,8 +18,7 @@
 
 <br><br>
 
-- :school: I am currently an intern in the `IT Department` at **GCO Occident**.
-- :school: I am also a student at **ETP Xavier Barcelona**, studying `Web Development`.
+- :school: I am currently an intern in the `IT Department` at **Inkoova**.
 - :technologist: I enjoy developing efficient `BackEnds` and analyzing complex `Data`.
 - :computer: I am passionate about solving problems with software and building meaningful digital solutions.
 - :nerd_face: I’m constantly learning new technologies and improving my skills in `Software Engineering`.

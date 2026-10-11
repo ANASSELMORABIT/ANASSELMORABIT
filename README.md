@@ -1,130 +1,101 @@
-<h1 align="center">Hi , I'm ANASS EL MORABIT <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Anass El Morabit</h1>
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Application+Developer;Frontend+and+Backend+Developer;Database+Developer">
-</a>
-
+  <b>.NET Developer</b> · C# · ASP.NET · SQL Server<br>
+  Enterprise applications for the insurance sector · Barcelona, Spain
 </p>
 
-
-<br>
-
-
-
-	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br><br>
-
-- :school: I am currently an intern in the `IT Department` at **Inkoova**.
-- :technologist: I enjoy developing efficient `BackEnds` and analyzing complex `Data`.
-- :computer: I am passionate about solving problems with software and building meaningful digital solutions.
-- :nerd_face: I’m constantly learning new technologies and improving my skills in `Software Engineering`.
-- :thinking: I’m open to new `opportunities` and collaborations in tech fields.
-<br>
-
-
-
-
-
-## 🛠️ My Skills
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
-
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank"> 
-    <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank"> 
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
-</p>
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
-  </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-</p>
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
- 
 <p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/django-%23092E20.svg?&style=plastic&logo=django&logoColor=white" /></a>
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
-     &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
-
+  <a href="https://www.linkedin.com/in/anass-el-morabit-98310929a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  &nbsp;
+  <a href="mailto:anasselmorabit797@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
- 
+---
+
+## About me
+
+.NET developer with over 2.5 years of experience building enterprise applications for the insurance sector.
+
+- 🏢 **Junior .NET Developer at [Inkoova](https://www.inkoova.com)** (technology consultancy), assigned to a **Catalana Occidente (GCO Group)** project. I build new applications and evolve existing ones: complex workflows for order management and work invoicing, across domains such as insurance, repair workshops, lawyers and doctors.
+- 🤝 I work directly with functional analysts and take part in requirements meetings, turning business needs into technical solutions.
+- 🎓 Previously an **intern .NET / Backend developer at Catalana Occidente**, working on the claims management system with .NET Framework, SQL Server and ASP.NET Web Forms.
+- 🌱 On my own time I build full-stack projects with **.NET 8, ASP.NET Core, React and TypeScript**, using Clean Architecture, JWT and automated testing.
+- 📫 Open to new opportunities as a .NET / backend or full-stack developer.
+
+## Tech stack
+
+**Backend**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![REST](https://img.shields.io/badge/Web%20API%20%2F%20REST-000000?style=flat-square&logo=json&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Databases**
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Testing, tools and workflow**
+
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+
+**Also:** Python · jQuery · ASP.NET Web Forms · TFS · SSMS
+
+## Featured projects
+
+### [InsureClaims](https://github.com/ANASSELMORABIT/insurance-claims-system) — full-stack claims management
+
+Application that replicates an enterprise insurance management system.
+
+- **Backend:** ASP.NET Core 8 Web API with Clean Architecture (Core / Infrastructure / API), EF Core 8 and SQL Server.
+- **Security:** JWT authentication with refresh tokens and role-based authorization (Admin, Agent, Client).
+- **Features:** full claim lifecycle (CRUD, status history, filters, pagination) and automatic agent assignment.
+- **Frontend:** React 18, TypeScript and Vite, with dashboards, Excel/PDF export, email notifications and dark/light mode.
+- **Quality:** xUnit, FluentAssertions and Moq on the backend; Vitest and Testing Library on the frontend; API documented with Swagger/OpenAPI.
+
+`ASP.NET Core 8` `C#` `EF Core` `SQL Server` `React` `TypeScript` `JWT` `Docker`
+
+### [Music Web Platform](https://github.com/ANASSELMORABIT/ProyectoFinalMP09MP03) — DAW final project
+
+- MVC application in .NET with Entity Framework and SQLite.
+- Integration of external APIs for search, recommendations and trending content.
+- Playlist management and music player with AJAX requests; responsive interface.
+
+## Experience
+
+| Period | Role | Company |
+|---|---|---|
+| Jun 2025 – Present | Junior .NET Developer | Inkoova (consultancy), assigned to Catalana Occidente |
+| Apr 2024 – Jun 2025 | Intern, .NET / Backend Developer | Catalana Occidente (GCO Group) |
+
+## Education
+
+- **Higher Vocational Diploma in Web Application Development (DAW)** — ETP Xavier, Barcelona (2023 – 2025)
+- **Computer Engineering (partially completed)** — ENSA Tetouan, Morocco (2020 – 2022)
+
+## Languages
+
+Spanish (native) · Arabic (native) · English (advanced) · French (advanced) · Catalan (intermediate)
+
+---
+
 <p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="NotePad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=blacke" /></a>
-</p>
-
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-</p>
-
-<br> 
-
-
-
-
-	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+  Looking for a .NET developer who understands the business side too? <a href="https://www.linkedin.com/in/anass-el-morabit-98310929a">Let's talk.</a>
 </p>

@@ -19,7 +19,7 @@
 - 🏢 **Junior .NET Developer at [Inkoova](https://www.inkoova.com)** (technology consultancy), assigned to a **Catalana Occidente (GCO Group)** project. I build new applications and evolve existing ones: complex workflows for order management and work invoicing, across domains such as insurance, repair workshops, lawyers and doctors.
 - 🤝 I work directly with functional analysts and take part in requirements meetings, turning business needs into technical solutions.
 - 🎓 Previously an **intern .NET / Backend developer at Catalana Occidente**, working on the claims management system with .NET Framework, SQL Server and ASP.NET Web Forms.
-- 🌱 On my own time I build full-stack projects with **.NET 8, ASP.NET Core, React and TypeScript**, using Clean Architecture, JWT and automated testing.
+- 🌱 On my own time I build full-stack projects with **.NET 8/10, ASP.NET Core, React and TypeScript**, using Clean Architecture, JWT, real-time communication and automated testing.
 - 📫 Open to new opportunities as a .NET / backend or full-stack developer.
 
 ## Tech stack
@@ -30,12 +30,16 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![REST](https://img.shields.io/badge/Web%20API%20%2F%20REST-000000?style=flat-square&logo=json&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -43,6 +47,7 @@
 **Databases**
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 **Testing, tools and workflow**
@@ -56,9 +61,23 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 
-**Also:** Python · jQuery · ASP.NET Web Forms · TFS · SSMS
+**Also:** Python · jQuery · ASP.NET Web Forms · Hangfire · TFS · SSMS
 
 ## Featured projects
+
+### [BookingApp](https://github.com/ANASSELMORABIT/BookingApp) — multi-tenant booking SaaS
+
+Booking and appointment management platform where each business gets its own subdomain and fully isolated data.
+
+- **Backend:** ASP.NET Core 10 REST API with Clean Architecture (Domain / Application / Infrastructure / API), EF Core and PostgreSQL 16.
+- **Security:** JWT authentication with granular roles (SuperAdmin, Owner, Staff, Client) and tenant-based authorization.
+- **Real time:** instant notifications through SignalR (WebSockets) and automatic email reminders with Hangfire background jobs.
+- **Payments:** Stripe integration (test mode).
+- **Features:** public booking page that needs no account, interactive calendar (day / week / month), dashboard with KPIs and charts, and Excel / PDF export with detailed statistics.
+- **Frontend:** React 18, TypeScript, Vite, Tailwind CSS v4, shadcn/ui, TanStack Query, FullCalendar and Recharts.
+- **DevOps and quality:** fully containerized with Docker Compose, xUnit unit tests, API documented with Scalar/OpenAPI.
+
+`ASP.NET Core 10` `C#` `EF Core` `PostgreSQL` `SignalR` `Hangfire` `Stripe` `React` `TypeScript` `Docker`
 
 ### [InsureClaims](https://github.com/ANASSELMORABIT/insurance-claims-system) — full-stack claims management
 
